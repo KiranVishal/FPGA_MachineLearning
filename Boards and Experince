@@ -1,0 +1,25 @@
+Xilinx - ISE Design suit -> Vivado (for the newer boards)
+Altera - Quartus -> Quatrus || Design suit
+
+Used Xilinx ISE with verilog for a while.
+
+Currently moving to Altera Boards with Quartus ||
+The decision for this switch is simply beaucse of the availabilty of resources in the lab I work in.
+
+We have a setup of four Stratix V boards in a cluster. And also a Cyclone V board. All boards are dirrectly connected using a PCIe
+
+Altera Boards :
+
+Stratix V :
+https://www.altera.com/products/fpga/stratix-series/stratix-v/overview.html
+
+Cyclone V :
+https://www.altera.com/products/fpga/cyclone-series/cyclone-v/overview.html
+
+Xilinx Boards :
+
+Spartan 6 :
+http://www.xilinx.com/products/silicon-devices/fpga/spartan-6.html
+
+ZedBoard :
+https://www.xilinx.com/products/boards-and-kits/1-8dyf-11.html
